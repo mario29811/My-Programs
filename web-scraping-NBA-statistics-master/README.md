@@ -1,8 +1,6 @@
 
 # Web scraping in Python: gathering and analyzing NBA player stats
 
-Daniel Wang
-
 * [Introduction](#Introduction)
 * [Scrape roster information for each NBA team](#Scrape-roster-information-for-each-NBA-team)
 * [Scrape player stats for career averages](#Scrape-player-stats-for-career-averages)
