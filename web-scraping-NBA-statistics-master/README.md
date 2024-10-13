@@ -1,9 +1,7 @@
 
 # Web scraping in Python: gathering and analyzing NBA player stats
 
-Erick Lu
-
-March 31, 2020 - [Jupyter Notebook](https://erilu.github.io/web-scraping-NBA-statistics/)
+Daniel Wang
 
 * [Introduction](#Introduction)
 * [Scrape roster information for each NBA team](#Scrape-roster-information-for-each-NBA-team)
